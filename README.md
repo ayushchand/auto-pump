@@ -1,1 +1,1 @@
-#auto-pump Author: Ayush
+#auto-pump Author: Ayush Chand
